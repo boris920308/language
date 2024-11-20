@@ -1,4 +1,4 @@
-package programmers.lv_1;
+package programmers.stack_queue;
 
 import java.util.ArrayList;
 import java.util.Arrays;
