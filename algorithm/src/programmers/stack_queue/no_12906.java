@@ -6,11 +6,11 @@ import java.util.Arrays;
 
 /**
  * no.12906
- * 같은 숫자는 싫어
+ * Lv1.같은 숫자는 싫어
  * https://school.programmers.co.kr/learn/courses/30/lessons/12906
  */
 
-public class stack_12906 {
+public class no_12906 {
 
     public static void main(String[] args) {
         int[] arr1 = {1, 1, 3, 3, 0, 1, 1};

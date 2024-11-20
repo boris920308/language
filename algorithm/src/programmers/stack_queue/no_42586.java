@@ -7,12 +7,12 @@ import java.util.Queue;
 
 /**
  * no.42586
- * 기능개발
+ * Lv2.기능개발
  * https://school.programmers.co.kr/learn/courses/30/lessons/42586
  */
 
 
-public class stack_42586 {
+public class no_42586 {
 
     public static void main(String[] args) {
         int[] progresses = {93, 30, 55};
